@@ -1,0 +1,17 @@
+{
+  "name": "wordbeater",
+  "version": "1.0.0",
+  "description": "game to type the fastest the word displayed in the screen in under a amount of secconds, otherwise you lose.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
